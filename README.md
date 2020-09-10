@@ -1,6 +1,12 @@
 # ZilchDemo# vue-spa
 Automation of  https://skyronic.github.io/vue-spa/#/
 
+## Task
+
+The task is set out as below:
+
+![Task](/Task.PNG)
+
 ## Installation
 
 This project uses:
@@ -13,4 +19,4 @@ This project uses:
 
 The scripts run from the tests file. The run config should be set to be set like this:
 
-![RunConfig](//RunConfig.PNG)
+![RunConfig](/RunConfig.PNG)
