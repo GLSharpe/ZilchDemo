@@ -11,6 +11,6 @@ This project uses:
 
 ## Running the scripts
 
-The scripts run from the src/test/com/company/Tests file. The run config should be set to be set like this:
+The scripts run from the tests file. The run config should be set to be set like this:
 
-![RunConfig](/RunConfig.PNG)
+![RunConfig](//RunConfig.PNG)
